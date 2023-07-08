@@ -1,0 +1,8 @@
+name: " "
+output_dir: "docs"
+navbar:
+  title: "Probabilidad y Estadística"
+  left:
+    - text: "Home"
+      href: index.html
+
